@@ -9,4 +9,4 @@
 🧙 Помните, что у нас есть и другие социальные сети:
   1. [Наш Дискорд](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br />
   2. [Наш VK](https://vk.com/gecostestudio) <br />
-  3. [Наш Telegram]([https://vk.com/gecostestudio](https://t.me/gecoste_studio)https://t.me/gecoste_studio) <br />
+  3. [Наш Telegram](https://t.me/gecoste_studio) <br />
