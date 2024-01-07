@@ -1,4 +1,4 @@
-## Добро пожаловать на оффициальную группу Gecoste Studio 👋
+## Добро пожаловать на официальную группу Gecoste Studio 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC65F7&center=true&vCenter=true&random=false&width=435&lines=Gecoste+Studio" alt="Typing SVG" /></a>
