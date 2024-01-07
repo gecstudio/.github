@@ -8,7 +8,7 @@
 
 🧙 Помните, что у нас есть и другие социальные сети: <br />
 
-<a href="https://vk.com/gecostestudio"><img src="https://github.com/gecstudio/.github/blob/main/profile/assets/VK.png" width="50%"></a>
+<a href="https://vk.com/gecostestudio"><img src="https://github.com/gecstudio/.github/blob/main/profile/assets/VK.png" width="200%"></a>
 <a href="https://t.me/gecoste_studio)"><img src="https://github.com/gecstudio/.github/blob/main/profile/assets/tg.png"></a>
 <a href="https://www.youtube.com/@gecostestudio4818"><img src="https://github.com/gecstudio/.github/blob/main/profile/assets/ytb.png"></a>
 
