@@ -1,6 +1,7 @@
 ## Добро пожаловать на оффициальную группу Gecoste Studio 👋
 
 **Здесь вы можете загрузить новые версии наших проектов, таких как: Gold Earnings, Stars Forever и другие**
+![om5vKdWQdDI](https://github.com/gecstudio/.github/assets/114843030/aa1992d2-46ef-49fc-8ff0-860c35aef8ca)
 
 🙋‍♀️ A short introduction - what is your organization all about? <br />
 🌈 Contribution guidelines - how can the community get involved? <br />
