@@ -6,6 +6,11 @@
 
 **Здесь вы можете загрузить новые версии наших проектов, таких как: Gold Earnings, Stars Forever и другие**
 
+Следи за новостями, скачивай игры и погрузись в новый мир.
+
+Наша страница в Google Play: [PlayMarket](https://play.google.com/store/apps/dev?id=6953232073562171394)
+
+Наш чат в Telegram - https://t.me/+oURfE5UM06VjN2My
 🧙 Помните, что у нас есть и другие социальные сети: <br />
 
 <a href="https://vk.com/gecostestudio"><img src="https://github.com/gecstudio/.github/blob/main/profile/assets/VK.png" width="11%"></a>
