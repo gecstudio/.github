@@ -1,5 +1,4 @@
-## Добро пожаловать на оффициальную группу Gecoste Studio 👋
-![logo_gecoste](https://github.com/gecstudio/.github/assets/114843030/655daa72-840d-4a2a-9256-94d56cbb50a3)
+![logo_gecoste](https://github.com/gecstudio/.github/assets/114843030/655daa72-840d-4a2a-9256-94d56cbb50a3) ## Добро пожаловать на оффициальную группу Gecoste Studio 👋
 
 **Здесь вы можете загрузить новые версии наших проектов, таких как: Gold Earnings, Stars Forever и другие**
 🙋‍♀️ A short introduction - what is your organization all about? <br />
